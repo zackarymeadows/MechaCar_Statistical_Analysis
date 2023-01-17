@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
 When observing the summary statistics for a Linear Regression model based on MPG, we can surmise that the vehicle length and ground clearance have the most non-random amount of variance regarding fuel economy. 
