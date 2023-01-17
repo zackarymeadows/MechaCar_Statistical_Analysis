@@ -16,6 +16,11 @@ However, when we seperate the statitics by lots, we can see that the third lot h
 pic of lot summary
 
 ## T-Tests on Suspension Coils
+When performing a ttest on the entire population, we find a suitable p value of .06, suggesting that the two means are statistically similar. 
+pic of ovr summary
+But, studying lot 3, the p value is a low .04. This indicates that the mean of PSI values in the third manufacturing lot is not statistically similar with the presumed population mean. 
+pic of ttest3
 
 
-
+## Study Design: MechaCar vs Competition
+In order to provide our clientelle with an incentive to drive our cars, we could perform a two sample t-Test that compares fuel efficiency based on similar ground clearance and weight. We would need our competitors MPG rating, the distance between the ground and the lowest part of their cars, and the weight of their cars.  
