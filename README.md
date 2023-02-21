@@ -1,4 +1,5 @@
 # MechaCar Statistical Analysis
+Using R to create a Linear Regression model in order to analyze variables that pertain to fuel economy. 
 
 ## Linear Regression to Predict MPG
 When observing the summary statistics for a Linear Regression model based on MPG, we can surmise that the vehicle length and ground clearance have the most non-random amount of variance regarding fuel economy. 
